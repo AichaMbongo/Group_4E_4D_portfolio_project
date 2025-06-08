@@ -36,11 +36,11 @@ By the end of this session, you will be able to:
 1. Fork this repository to your GitHub account
 2. Clone it to your local machine:
     ```bash
-    git clone https://github.com/YOUR-USERNAME/group-portfolio.git
+    git clone https://github.com/AichaMbongo/Group_4E_4D_portfolio_project.git
     ```
 3. Create a branch using your GitHub username:
     ```bash
-    git checkout -b your-github-username
+    git checkout -b your-firstName-LastName
     ```
 4. Open `index.html` and add your section
 5. Add an image representing your chosen animal and explain your choice
