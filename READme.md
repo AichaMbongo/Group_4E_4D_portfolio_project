@@ -1,4 +1,3 @@
-
 # Group Portfolio Project
 
 Welcome to the GitHub Essentials Class Group Project!  
@@ -22,7 +21,7 @@ Each member will add a section with:
 By the end of this session, you will be able to:
 
 - Use `git clone`, `branch`, `add`, `commit`, and `push`
-- Create meaningful commit messages using [Conventional Commits](https://www.conventionalcommits.org/)
+- Create meaningful commit messages using [Conventional Commits](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
 - Create and review **pull requests**
 - Resolve merge conflicts
 - Create and assign **issues**
@@ -35,28 +34,30 @@ By the end of this session, you will be able to:
 
 1. Fork this repository to your GitHub account
 2. Clone it to your local machine:
-    ```bash
-    git clone https://github.com/AichaMbongo/Group_4E_4D_portfolio_project.git
-    ```
+   ```bash
+   git clone https://github.com/AichaMbongo/Group_4E_4D_portfolio_project.git
+   ```
 3. Create a branch using your GitHub username:
-    ```bash
-    git checkout -b your-firstName-LastName
-    ```
+   ```bash
+   git checkout -b your-branch-name
+   ```
 4. Open `index.html` and add your section
 5. Add an image representing your chosen animal and explain your choice
 6. Add and commit your changes using the correct convention:
-    ```bash
-    git add .
-    git commit -m "feat: add my section with avatar and explanation
 
-    Added my details to the group portfolio page.
+   ```bash
+   git add .
+   git commit -m "feat: add my section with avatar and explanation
 
-    Footer: #10"
-    ```
+   Added my details to the group portfolio page.
+
+   Footer: #10"
+   ```
+
 7. Push your branch:
-    ```bash
-    git push origin your-github-username
-    ```
+   ```bash
+   git push origin your-branch-name
+   ```
 
 ---
 
@@ -90,6 +91,6 @@ Always try to include:
 - [ ] Create an issue and assign it
 - [ ] Link a pull request to an issue
 - [ ] Complete one milestone
-- [ ] Create a `reflection.md` file with your names and key takeaways from this session 
+- [ ] Create a `reflection.md` file with your names and key takeaways from this session
 
 Happy Coding!
