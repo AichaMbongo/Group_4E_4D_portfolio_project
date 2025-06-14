@@ -91,6 +91,6 @@ Always try to include:
 - [ ] Create an issue and assign it
 - [ ] Link a pull request to an issue
 - [ ] Complete one milestone
-- [ ] Create a `reflection.md` file with your names and key takeaways from this session
+- [ ] Create a `reflection.md` file with your names and key takeaways from this session.
 
 Happy Coding!
