@@ -3,7 +3,7 @@
 ## Group Members
 
 - Alice Johnson
-- Bob Smith
+- Ben Smith
 - Lucy Lee
 - David Kim
 - Emmalisa Patel
