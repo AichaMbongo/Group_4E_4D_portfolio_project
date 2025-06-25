@@ -1,21 +1,18 @@
 # Group Portfolio Documentation
 
+## Group Members
 
-## Group Members  
+- Alice Johnson
+- Bob Smith
+<!-- - Carol Lee
+- David Kim
+- Emma Patel -->
 
+## Lessons Learnt from the GitHub Crash Program
 
-- Alice Johnson  
-<!-- - Bob Smith  
-- Carol Lee  
-- David Kim  
-- Emma Patel   -->
+We learned how to:
 
-## Lessons Learnt from the GitHub Crash Program  
-
- We learned how to:  
-- Use branches effectively  
-<!--- Create and review pull requests  
-- Resolve merge conflicts  
-- Manage project boards and milestones   -->
-
-
+- Use branches effectively
+- Create and review pull requests
+<!-- - Resolve merge conflicts
+- Manage project boards and milestones -->
