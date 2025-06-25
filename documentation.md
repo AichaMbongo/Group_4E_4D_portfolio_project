@@ -3,7 +3,7 @@
 ## Group Members
 
 - Aicha Mbongo
-- Ben Smith
+- Ben Wanger
 - Lucy Lee
 - David Kim
 - Emmalisa Patel
