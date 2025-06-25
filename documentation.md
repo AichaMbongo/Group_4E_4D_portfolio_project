@@ -2,7 +2,7 @@
 
 ## Group Members
 
-- Aicha Johnson
+- Aicha Mbongo
 - Ben Smith
 - Lucy Lee
 - David Kim
