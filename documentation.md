@@ -6,7 +6,7 @@
 - Ben Wanger
 - Lucy Lee
 - Dave Kim
-- Emmalisa Patel
+- Emmalisa Oyoo
 
 
 ## Lessons Learnt from the GitHub Crash Program
