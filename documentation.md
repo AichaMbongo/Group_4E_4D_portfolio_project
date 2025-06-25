@@ -2,7 +2,7 @@
 
 ## Group Members
 
-- Alice Johnson
+- Aicha Johnson
 - Ben Smith
 - Lucy Lee
 - David Kim
