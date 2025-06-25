@@ -5,7 +5,7 @@
 - Aicha Mbongo
 - Ben Wanger
 - Lucy Lee
-- David Kim
+- Dave Kim
 - Emmalisa Patel
 
 
