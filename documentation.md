@@ -8,6 +8,7 @@
 - David Kim
 - Emmalisa Patel
 
+
 ## Lessons Learnt from the GitHub Crash Program
 
 We learned how to:
