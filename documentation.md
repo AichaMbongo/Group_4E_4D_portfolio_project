@@ -4,7 +4,7 @@
 
 - Alice Johnson
 - Bob Smith
-- Carol Lee
+- Lucy Lee
 - David Kim
 - Emmalisa Patel
 
