@@ -6,7 +6,8 @@
 - Bob Smith
 - Carol Lee
 - - David Kim
-<!--  - Emma Patel --> 
+- David Kim
+- Emma Patel 
 
 ## Lessons Learnt from the GitHub Crash Program
 
