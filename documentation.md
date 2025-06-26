@@ -7,6 +7,7 @@
 - Lucy Lee
 - Dave Kim
 - Emmalisa Oyoo
+- Melissa
 
 
 ## Lessons Learnt from the GitHub Crash Program
@@ -17,3 +18,4 @@ We learned how to:
 - Create and review pull requests
 - Resolve merge conflicts
 - Manage project boards and milestones
+-learnt how to git rebase
