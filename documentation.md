@@ -9,6 +9,7 @@
 - Emmalisa Oyoo
 - Melissa
 - Charles
+- Myriam
 
 
 ## Lessons Learnt from the GitHub Crash Program
