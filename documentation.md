@@ -10,6 +10,7 @@
 - Melissa
 - Charles
 - Myriam
+- Firdaws
 
 
 ## Lessons Learnt from the GitHub Crash Program
