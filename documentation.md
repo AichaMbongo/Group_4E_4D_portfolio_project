@@ -25,4 +25,4 @@ We learned how to:
 -learnt how to git rebase
 -learnt how to git rebase
 - git rebase cause the git graph to get linear over time.
-- git squash gives a simplified git graph as it is contains one commit per feature branch
+- git squash gives a simplified git graph.
